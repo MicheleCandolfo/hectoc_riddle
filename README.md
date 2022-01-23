@@ -2,7 +2,7 @@
 This repo is all about solving the hectoc riddle with python 
 I used a brute force approach to solve the riddle
 
-##Get started
+## Get started
 - Clone the repository 
 - Start the python program
 - Put the following command in the terminal:
