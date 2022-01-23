@@ -1,6 +1,6 @@
 # hectoc_riddle
-This repo is all about solving the hectoc riddle with python 
-I used a brute force approach to solve the riddle
+- This repo is all about solving the hectoc riddle with python 
+- I used a brute force approach to solve the riddle
 
 ## Get started
 - Clone the repository 
